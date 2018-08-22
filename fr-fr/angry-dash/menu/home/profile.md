@@ -1,4 +1,4 @@
-<!-- TITLE: Profil -->
+<!-- TITLE: 3.5. Profil -->
 <!-- SUBTITLE:  -->
 
 # Le profil
