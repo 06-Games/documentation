@@ -1,4 +1,4 @@
-<!-- TITLE: Recent -->
+<!-- TITLE: 4.1. Récent -->
 <!-- SUBTITLE:  -->
 
 # Qu'est-ce que le menu récents ?
