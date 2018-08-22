@@ -12,6 +12,6 @@ Angry Dash isn't published, You need to wait  :/
 
 
 # With the 06Games Launcher
-1. If, the launcher isn't installed you can download it here: [launcher android](https://06games.ddns.net/Projects/App/06Games%20Launcher/down.php) et connectez-vous
+1. If, the launcher isn't installed you can download it here [launcher android](https://06games.ddns.net/Projects/App/06Games%20Launcher/down.php) et sign in/log in :D
 2. In the sectrion "Games" select "Angry Dash"
 3. Choose the version of Angry Dash and download it.
