@@ -1,4 +1,4 @@
-<!-- TITLE: 1.1. Install Windows -->
+<!-- TITLE: 1.1. Windows install -->
 <!-- SUBTITLE: Windows installation -->
 
 # With the 06Games launcher
