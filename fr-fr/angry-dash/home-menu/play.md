@@ -1,4 +1,4 @@
 <!-- TITLE: Jouer -->
-<!-- SUBTITLE: _ -->
+<!-- SUBTITLE:  -->
 
 # Header
