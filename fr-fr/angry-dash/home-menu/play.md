@@ -1,4 +1,4 @@
-<!-- TITLE: Play -->
-<!-- SUBTITLE: A quick summary of Play -->
+<!-- TITLE: Jouer -->
+<!-- SUBTITLE: _ -->
 
 # Header
