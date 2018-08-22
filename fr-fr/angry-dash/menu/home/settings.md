@@ -1,4 +1,4 @@
-<!-- TITLE: Paramètres -->
+<!-- TITLE: 3.2. Paramètres -->
 <!-- SUBTITLE:  -->
 
 # Supprimer les fichiers logs
