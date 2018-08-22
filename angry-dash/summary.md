@@ -2,5 +2,5 @@
 <!-- SUBTITLE: Sommaire d'Angry Dash -->
 
 * Installation 
- * Android
- * Windows
+	* Android
+	* Windows
