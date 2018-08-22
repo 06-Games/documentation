@@ -8,8 +8,11 @@
 * 2.1. [Connection au compte 06Games](first-start/06games-account)
 
 # 3. Le menu d'accueil
-* 3.1. [Jouer](home-menu/play)
-* 3.2. [Paramètres](home-menu/settings)
-* 3.3. [Magasin](home-menu/shop)
-* 3.4. [Inventaire](home-menu/inventory)
-* 3.5. [Profil](home-menu/profile)
+* 3.1. [Jouer](menu/home/play)
+* 3.2. [Paramètres](menu/home/settings)
+* 3.3. [Magasin](menu/home/shop)
+* 3.4. [Inventaire](menu/home/inventory)
+* 3.5. [Profil](menu/home/profile)
+
+# 4. L'éditeur
+* 4.1. [Récent](menu/editor/)
