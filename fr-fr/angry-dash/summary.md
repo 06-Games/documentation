@@ -15,4 +15,4 @@
 * 3.5. [Profil](menu/home/profile)
 
 # 4. L'éditeur
-* 4.1. [Récent](menu/editor/)
+* 4.1. [Récent](menu/editor/recent)
