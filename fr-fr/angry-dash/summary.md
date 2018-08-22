@@ -18,4 +18,4 @@
 # 4. L'éditeur
 * 4.1. [Récent](menu/editor/recent)
 * 4.2. [Explorer](menu/editor/explore)
-* 4.3. [Monde](menu/editor/publish-level)
+* 4.3. [Monde](menu/editor/published-level)
