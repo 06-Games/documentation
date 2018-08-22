@@ -3,4 +3,3 @@
 
 # Header
 > test
-{.is-warning}
