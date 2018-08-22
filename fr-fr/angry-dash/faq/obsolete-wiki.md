@@ -1,4 +1,4 @@
-<!-- TITLE: Ce wiki n'est pas à jour, puis-je le mettre à jour ? -->
+<!-- TITLE: Ce wiki n'est pas à jour, comment puis-je le mettre à jour ? -->
 <!-- SUBTITLE:  -->
 
 **Oui, bien sur !**
