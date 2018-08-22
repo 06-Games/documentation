@@ -3,12 +3,12 @@
 
 # With the Play Store
 ## Public Version
-Angry Dash isn't published at all, You need to wait.
+Angry Dash isn't published, You need to wait  :/
 
 ## Beta Version
-1. Join the [Google Plus group](https://plus.google.com/u/0/communities/104855126997408251493) de la beta.
+1. Join the [Google Plus group](https://plus.google.com/u/0/communities/104855126997408251493) of the beta.
 2. Sign in the [beta](https://play.google.com/apps/testing/com.fr_06Games.AngryDash).
-3. Download the game on [Play Store](https://play.google.com/store/apps/details?id=com.fr_06Games.AngryDash) avec le compte inscrit.
+3. Download the game on [Play Store](https://play.google.com/store/apps/details?id=com.fr_06Games.AngryDash) with the logged account.
 
 
 # With the 06Games Launcher
