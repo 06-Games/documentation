@@ -1,6 +1,6 @@
 <!-- TITLE: Sommaire -->
 <!-- SUBTITLE: Sommaire d'Angry Dash -->
 
-* **Installation**
-	* Android
-	* Windows
+1. **Installation**
+	1.1. Android
+	1.2. Windows
