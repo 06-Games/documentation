@@ -1,4 +1,4 @@
-<!-- TITLE: Magasin -->
+<!-- TITLE: 3.3. Magasin -->
 <!-- SUBTITLE:  -->
 
 # Son contenu
