@@ -1,4 +1,4 @@
-<!-- TITLE: Inventory -->
+<!-- TITLE: 3.4. Inventaire -->
 <!-- SUBTITLE:  -->
 
 # L'inventaire
