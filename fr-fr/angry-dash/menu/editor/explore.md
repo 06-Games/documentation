@@ -1,4 +1,4 @@
-<!-- TITLE: Explorer -->
+<!-- TITLE: 4.2. Explorer -->
 <!-- SUBTITLE:  -->
 
 # Qu'est-ce que le menu explorer ?
