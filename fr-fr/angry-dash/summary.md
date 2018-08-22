@@ -25,3 +25,4 @@
 * [Je suis bloqué et je n'ai pas pu trouver de solution sur ce wiki, que puis-je faire ?](faq/help-required)
 * [J'ai un idée de nouvelle fonctionnalité, comment la faire parvenir aux développeurs ?](faq/send-ideas)
 * [Je ne suis pas satisfait d'une nouvelle mise à jour, comment montrer mon mécontentement ?](faq/update-not-appreciated)
+* [Ce wiki n'est pas à jour, puis-je le mettre à jour ?](faq/obsolete-wiki)
