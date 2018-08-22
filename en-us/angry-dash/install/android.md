@@ -1,9 +1,9 @@
-<!-- TITLE: 1.1. Installation Android -->
-<!-- SUBTITLE: Installation sur Android -->
+<!-- TITLE: 1.1. Android Install -->
+<!-- SUBTITLE: Android Installation -->
 
 # With the Play Store
 ## Public Version
-Angry Dash isn't published, You need to wait  :/
+Angry Dash isn't published, You need to wait  :/.
 
 ## Beta Version
 1. Join the [Google Plus group](https://plus.google.com/u/0/communities/104855126997408251493) of the beta.
@@ -12,6 +12,6 @@ Angry Dash isn't published, You need to wait  :/
 
 
 # With the 06Games Launcher
-1. If, the launcher isn't installed you can download it here [launcher android](https://06games.ddns.net/Projects/App/06Games%20Launcher/down.php) et sign in/log in :D
-2. In the sectrion "Games" select "Angry Dash"
+1. If, the launcher isn't installed you can download it here: [launcher android](https://06games.ddns.net/Projects/App/06Games%20Launcher/down.php) and log in.
+2. In the sectrion "Games" select "Angry Dash".
 3. Choose the version of Angry Dash and download it.
