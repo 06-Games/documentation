@@ -12,6 +12,6 @@ Angry Dash n'est actuelement pas disponible via cette méthode, revenez plus tar
 
 
 # Via le 06Games Launcher
-1. Si ce n'est pas déja fait, télechargez le [launcher android](https://06games.ddns.net/Projects/App/06Games%20Launcher/down.php) et connectez-vous
-2. Dans l'onglet "Jeux", sélectionnez "Angry Dash"
-3. Sélectionnez la version d'Angry Dash à installer puis cliquez sur télécharger
+1. Si ce n'est pas déja fait, télechargez le [launcher android](https://06games.ddns.net/Projects/App/06Games%20Launcher/down.php) et connectez-vous :D.
+2. Dans l'onglet "Jeux", sélectionnez "Angry Dash".
+3. Sélectionnez la version d'Angry Dash à installer puis cliquez sur télécharger.
