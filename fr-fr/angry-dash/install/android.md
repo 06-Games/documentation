@@ -3,7 +3,7 @@
 
 # Via le Play Store
 ## Version public
-Angry Dash n'est actuelement pas disponible via cette méthode, revenez plus tard.
+Angry Dash n'est actuelement pas disponible via cette méthode, revenez plus tard  :/.
 
 ## Version beta
 1. Rejoingnez le [groupe Google Plus](https://plus.google.com/u/0/communities/104855126997408251493) de la beta.
