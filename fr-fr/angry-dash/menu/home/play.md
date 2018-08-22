@@ -1,4 +1,4 @@
-<!-- TITLE: Jouer -->
+<!-- TITLE: 3.1. Jouer -->
 <!-- SUBTITLE:  -->
 
 # Comment jouer
