@@ -11,3 +11,5 @@
 * 3.1. [Jouer](home-menu/play)
 * 3.2. [Paramètres](home-menu/settings)
 * 3.3. [Magasin](home-menu/shop)
+* 3.4. [Inventaire](home-menu/inventory)
+* 3.5. [Profil](home-menu/profile)
