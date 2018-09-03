@@ -7,7 +7,7 @@
 Ce fichier contient tout les paramètres principaux du serveur :
 * **Server**
 	* server.create_log : False/True (valeur par defaut `True`)
-	* server.icon : Chemin d'accès à l'icone (valeur par defaut `icon.png`)
+	* server.icon : Nom du fichier de l'icone (valeur par defaut `icon.png`)
 	* <span>server.name</span> : Nom du serveur (valeur par defaut `Angry Dash Server`)
 	* server.port : 1-65535 (valeur par defaut `20000`)
 * **Players**
