@@ -7,7 +7,7 @@
 Ce fichier contient tout les paramètres principaux du serveur :
 | Propriété                | Valeurs acceptées         | Valeur par defaut |
 |--------------------------|---------------------------|-------------------|
-| **Server**               |                           |                   |
+<span style="border-right: none;">| **Server**               | </span><span style="border-right: none; border-left: none;">                          |</span><span style="border-left: none;">                   |</span>
 | server.create_log        | False/True                | True              |
 | server.icon              | Nom du fichier de l'icone | icon.png          |
 | <span>server.name</span> | Nom du serveur            | Angry Dash Server |
