@@ -30,3 +30,4 @@
 # Angry Dash Server
 * [Installation](server/install)
 * [Les commandes](server/commands)
+* [Configuration](server/config)
