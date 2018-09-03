@@ -12,3 +12,7 @@ La course contre la montre est un mode de jeu multijoueur consistant a terminer 
 La course aux déplacements est un mode multijoueur consistant à terminer un niveau en faisant le moins de déplacement possible, le vainqueur est celui qui a fait le moins de déplacement !
 
 D'autre modes de jeux seront ajoutés par la suite, soyez patients :D
+
+# Jouer ...
+## Au niveaux officiels
+Ces niveaux sont créer par notre équipe et permettent un rendement plus important en pièces (monnaie du jeu). Ils sont accéssible via le bouton jouer présent sur l'écran d'acceuil.
