@@ -18,6 +18,7 @@ Ce fichier contient tout les paramètres principaux du serveur :
 |Test|
 |----|----|
 |Test1|Test2|
+|----|----|
 |Test|
 |----|----|
 |Test1|Test2|
