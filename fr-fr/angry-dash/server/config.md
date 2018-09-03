@@ -7,12 +7,12 @@
 Ce fichier contient tout les paramètres principaux du serveur :
 | Propriété                	| Valeurs acceptées         	| Valeur par defaut 	|
 |--------------------------	|---------------------------	|-------------------	|
-|                          	|         **Server**        	|                   	|
+|                          	|         <span style="text-align:center;">**Server**</span>        	|                   	|
 | server.create_log        	| False/True                	| True              	|
 | server.icon              	| Nom du fichier de l'icone 	| icon.png          	|
 | <span>server.name</span> 	| Nom du serveur            	| Angry Dash Server 	|
 | server.port              	| 1-65535                   	| 20000             	|
-|                          	|        **Players**        	|                   	|
+|                          	|        <span style="text-align:center;">**Players**</span>        	|                   	|
 | players.limit            	| 1-Infini (ou presque)     	| 50                	|
-|                          	|          **Map**          	|                   	|
+|                          	|          <span style="text-align:center;">**Map**</span>          	|                   	|
 | map.reload_for_players   	| False/True                	| True              	|
