@@ -14,3 +14,8 @@ Ce fichier contient tout les paramètres principaux du serveur :
 	* players.limit : 1-Infini (valeur par defaut `50`)
 * **Map**
 	* map.reload_for_players : False/True (valeur par defaut `True`)
+
+|----|----|
+|Test|
+|----|----|
+|Test1|Test2|
