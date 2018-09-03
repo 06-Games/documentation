@@ -32,11 +32,7 @@ D'autre modes de jeux seront ajoutés par la suite, soyez patients :D
 Tout le monde peut héberger ce genre de serveur, ils ne en aucun cas approuvé par notre équipe et nous ne sommes en aucune circonstance responsable des problèmes que vous pourriez y rencontrer
 
 **Pour vous aussi heberger un serveur :**
-1. Téléchargez la [dernière version](https://06games.ddns.net/Projects/Games/Angry%20Dash/server.php) de notre serveur depuis notre site
-2. Extrayez le dossier et copiez-le à l'emplacement souhaité
-3. Exécutez le fichier "Angry Dash Server **x.x**.exe"
-4. Le serveur démarre et peut etre rejoint par defaut sur le port *20000*
-Pour [plus d'information]() consultez notre documentation gogs (non disponible au public pour le moment).
+Pour plus d'information consultez notre [documentation](/fr-fr/angry-dash/summary) sur Angry Dash Server.
 
 ### Serveurs locaux
 > Ce moyen est obsolète et n'est plus compris dans les nouvelles version du jeu
