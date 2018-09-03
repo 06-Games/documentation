@@ -39,7 +39,7 @@ Tout le monde peut héberger ce genre de serveur, ils ne en aucun cas approuvé 
 Pour [plus d'information]() consultez notre documentation gogs (non disponible au public pour le moment).
 
 ### Serveurs locaux
-> Ce moyen n'est plus à jour et sera supprimé dans de futures mises à jour
+> Ce moyen est obsolète et n'est plus compris dans les nouvelles version du jeu
 
 Dans le menu de multi-joueur, sélectionnez **Héberger** pour démarrer le serveur.
 Vos autres appareils connectés au réseau pourrons rejoindre le serveur grace à l'[ip local](http://trouver-ip.com/adresse-ip-locale.php) de votre appareil et au port *20000*
