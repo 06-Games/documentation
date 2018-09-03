@@ -15,4 +15,11 @@ D'autre modes de jeux seront ajoutés par la suite, soyez patients :D
 
 # Jouer ...
 ## Au niveaux officiels
-Ces niveaux sont créer par notre équipe et permettent un rendement plus important en pièces (monnaie du jeu). Ils sont accéssible via le bouton jouer présent sur l'écran d'acceuil.
+Ces niveaux sont créer par notre équipe et permettent un rendement plus important en pièces (monnaie du jeu). 
+Ils sont accéssible via le bouton **Jouer** présent sur l'écran d'acceuil.
+
+## Au niveaux de la communauté
+Ces niveaux ont été créer par des joueurs du monde entier,. Nous ne pouvons vous garantir qu'ils aient été joué et/ou vérifié par notre équipe. Ils permettent donc un rendement moins important en pièces (monnaie du jeu). 
+Ils sont accéssible via le bouton **Monde** présent dans l'éditeur.
+
+
