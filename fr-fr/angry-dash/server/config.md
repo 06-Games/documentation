@@ -9,8 +9,8 @@ Ce fichier contient tout les paramètres principaux du serveur :
 |--------------------------	|---------------------------	|-------------------	|
 |                          	|         <span style="display: flex; justify-content: center; align-items: center;">**Server**</span>        	|                   	|
 | server.create_log        	| False/True                	| True              	|
-| server.icon              	| Nom du fichier de l'icone 	| icon.png          	|
-| <span>server.name</span> 	| Nom du serveur            	| Angry Dash Server 	|
+| server.icon              	| Chaine de charctère 	| icon.png          	|
+| <span>server.name</span> 	| Chaine de charctère            	| Angry Dash Server 	|
 | server.port              	| 1-65535                   	| 20000             	|
 |                          	|        <span style="display: flex; justify-content: center; align-items: center;">**Players**</span>        	|                   	|
 | players.limit            	| 1-Infini (ou presque)     	| 50                	|
