@@ -2,7 +2,7 @@
 <!-- SUBTITLE:  -->
 
 # Supprimer les fichiers logs
-Lorque vous accéder aux paramètres, un bouton en haut "suppr. les logs" apparaît. Ce bouton permet de supprimer des fichiers contenant le trace des bugs rencontrés en jeu, ils servent à aider les développeurs à les corriger si vous les envoyez.
+Lorque vous accéder aux paramètres, un bouton en haut "suppr. les logs" apparaît. Ce bouton permet de supprimer les fichiers logs (trouvable dans le dossier `%AppData%/../LocalLow/06Games/Angry Dash/logs/`) contenant le trace des bugs rencontrés en jeu. Ils sont nécessaire aux développeurs pour corriger les bugs que vous reportez.
 
 # Crédits
 Vous pouvez accéder au crédits en cliquant sur le logo de 06Games en haut à gauche. 
