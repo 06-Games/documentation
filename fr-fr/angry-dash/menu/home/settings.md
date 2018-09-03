@@ -8,7 +8,7 @@ Lorque vous accéder aux paramètres, un bouton en haut "suppr. les logs" appara
 Vous pouvez accéder au crédits en cliquant sur le logo de 06Games en haut à gauche. 
 
 # Langues
-Vous pouvez choisir la langue du jeu en cliquant sur le drapeau du pays d'origine de la laugue souhaité.
+Vous pouvez choisir la langue du jeu en cliquant sur le drapeau du pays d'origine de la langue souhaité.
 
 # Options Graphiques
 Ici, vous pouvez définir plusieurs options graphique tel que :
