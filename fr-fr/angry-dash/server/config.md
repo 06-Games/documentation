@@ -15,7 +15,9 @@ Ce fichier contient tout les paramètres principaux du serveur :
 * **Map**
 	* map.reload_for_players : False/True (valeur par defaut `True`)
 
+|Test|
 |----|----|
+|Test1|Test2|
 |Test|
 |----|----|
 |Test1|Test2|
