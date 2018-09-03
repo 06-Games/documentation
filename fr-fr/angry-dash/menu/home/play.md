@@ -21,7 +21,7 @@ Ils sont accéssible via le bouton **Monde** présent dans l'éditeur.
 ## Sur des serveurs
 ### Serveurs officiels
 > Acctuelement indisponible
-> 
+
 Ces serveurs proposent différents mode de jeu :
 * La course contre la montre, consiste a terminer le plus rapidement possible un niveau, celui ayant le meilleur temps sera le vainqueur !
 * La course aux déplacements, consiste à terminer un niveau en faisant le moins de déplacement possible, le vainqueur est celui qui a fait le moins de déplacement !
@@ -36,3 +36,9 @@ Tout le monde peut héberger ce genre de serveur, ils ne en aucun cas approuvé 
 3. Exécutez le fichier "Angry Dash Server **x.x**.exe"
 4. Le serveur démarre et peut etre rejoint par defaut sur le port *20000*
 Pour [plus d'information]() consultez notre documentation gogs (non disponible au public pour le moment).
+
+### Serveurs locaux
+> Ce moyen n'est plus à jour et sera supprimé dans de futurs mises à jour
+
+Dans le menu de multi-joueur, sélectionnez **Héberger** pour démarrer le serveur.
+Vos autres appareils connectés au réseau pourrons rejoindre le serveur grace à l'[ip local](http://trouver-ip.com/adresse-ip-locale.php) de votre appareil et au port *20000*
