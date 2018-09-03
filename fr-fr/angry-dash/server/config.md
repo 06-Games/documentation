@@ -5,14 +5,14 @@
 
 # Le fichier config.ini
 Ce fichier contient tout les paramètres principaux du serveur :
-| Propriété                | Valeurs acceptées         | Valeur par defaut |
-|--------------------------|---------------------------|-------------------|
-<span style="border-right: none;">| **Server**               | </span><span style="border-right: none; border-left: none;">                          |</span><span style="border-left: none;">                   |</span>
-| server.create_log        | False/True                | True              |
-| server.icon              | Nom du fichier de l'icone | icon.png          |
-| <span>server.name</span> | Nom du serveur            | Angry Dash Server |
-| server.port              | 1-65535                   | 20000             |
-| **Players**              |                           |                   |
-| players.limit            | 1-Infini (ou presque)     | 50                |
-| **Map**                  |                           |                   |
-| map.reload_for_players   | False/True                | True              |
+| Propriété                	| Valeurs acceptées         	| Valeur par defaut 	|
+|--------------------------	|---------------------------	|-------------------	|
+|                          	|         **Server**        	|                   	|
+| server.create_log        	| False/True                	| True              	|
+| server.icon              	| Nom du fichier de l'icone 	| icon.png          	|
+| <span>server.name</span> 	| Nom du serveur            	| Angry Dash Server 	|
+| server.port              	| 1-65535                   	| 20000             	|
+|                          	|        **Players**        	|                   	|
+| players.limit            	| 1-Infini (ou presque)     	| 50                	|
+|                          	|          **Map**          	|                   	|
+| map.reload_for_players   	| False/True                	| True              	|
