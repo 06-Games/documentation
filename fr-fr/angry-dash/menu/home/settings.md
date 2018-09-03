@@ -15,8 +15,8 @@ Ici, vous pouvez définir plusieurs options graphique tel que :
 * l'antialiasing (Désactivé/msaa 2x/msaa 4x/msaa 8x) 
 * afficher le compteur d'FPS.
 * **Windows uniquement :**
-*  basculer entre le mode fenêtré et le mode plein écran
-*  changer la limite de FPS (de 60 à illimité).
+	*  basculer entre le mode fenêtré et le mode plein écran
+	*  changer la limite de FPS (de 60 à illimité).
 
 # Audio
 Vous pouvez facilement régler le volume du jeu en augmentant/diminuant le volume géneral, des musiques et des effets (FX)
