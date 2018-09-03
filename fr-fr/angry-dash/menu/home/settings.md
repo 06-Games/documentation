@@ -12,7 +12,7 @@ Vous pouvez choisir la langue du jeu en cliquant sur le drapeau associé.
 
 # Options Graphiques
 Ici, vous pouvez définir plusieurs options graphique tel que :
-* l'antialiasing (Désactivé/msaa 2x/msaa 4x/msaa 8x) 
+* l'antialiasing (Désactivé/MSAA 2x/MSAA 4x/MSAA 8x) 
 * afficher le compteur d'FPS.
 * **Windows uniquement :**
 	*  basculer entre le mode fenêtré et le mode plein écran
