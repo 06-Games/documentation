@@ -26,3 +26,7 @@
 * [J'ai un idée de nouvelle fonctionnalité, comment la faire parvenir aux développeurs ?](faq/send-ideas)
 * [Je ne suis pas satisfait d'une nouvelle mise à jour, comment montrer mon mécontentement ?](faq/update-not-appreciated)
 * [Ce wiki n'est pas à jour, puis-je le mettre à jour ?](faq/obsolete-wiki)
+
+# Angry Dash Server
+* [Installation](server/install)
+* [Les commandes](server/commands)
