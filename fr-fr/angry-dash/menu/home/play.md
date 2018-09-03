@@ -31,7 +31,7 @@ D'autre modes de jeux seront ajoutés par la suite, soyez patients :D
 ### Serveurs communautaires
 Tout le monde peut héberger ce genre de serveur, ils ne en aucun cas approuvé par notre équipe et nous ne sommes en aucune circonstance responsable des problèmes que vous pourriez y rencontrer
 
-**Pour plus d'information consultez notre [documentation](/fr-fr/angry-dash/summary) sur Angry Dash Server.**
+**Pour plus d'information consultez notre [documentation](/fr-fr/angry-dash/summary#angry-dash-server) sur Angry Dash Server.**
 
 ### Serveurs locaux
 > Ce moyen est obsolète et n'est plus compris dans les nouvelles version du jeu
