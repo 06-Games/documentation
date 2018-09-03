@@ -21,6 +21,7 @@ Ils sont accéssible via le bouton **Monde** présent dans l'éditeur.
 ## Sur des serveurs
 ### Serveurs officiels
 > Acctuelement indisponible
+> 
 Ces serveurs proposent différents mode de jeu :
 * La course contre la montre, consiste a terminer le plus rapidement possible un niveau, celui ayant le meilleur temps sera le vainqueur !
 * La course aux déplacements, consiste à terminer un niveau en faisant le moins de déplacement possible, le vainqueur est celui qui a fait le moins de déplacement !
