@@ -18,3 +18,12 @@ Pour partager un niveau, selectionnez le puis cliquez sur "Partager", l'action d
 * Windows : Equivalant de la fonction "*Enregistrer sous...*", sauvegarde sur le disque dur ou tout autre dispositif de stockage (Clé usb, carte SD, Disque Dur Externe, SSD, ...)
 
 # L'éditeur
+## Construction
+
+## Edition
+
+## Options générales
+
+## Evènements
+
+## Suppression
