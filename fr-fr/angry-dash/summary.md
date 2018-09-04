@@ -18,8 +18,8 @@
 # 4. L'éditeur
 * 4.1. [Récent](menu/editor/recent)
 * 4.2. [Explorer](menu/editor/explore)
-	* 4.2.1. [Le menu Explorer](menu/editor/explore)
-	* 4.2.2. [L'éditeur](menu/editor/explore)
+	* 4.2.1. [Le menu Explorer](menu/editor/explore#le-menu-explorer)
+	* 4.2.2. [L'éditeur](menu/editor/explore#lediteur)
 * 4.3. [Monde](menu/editor/published-level)
 
 # Angry Dash Server
