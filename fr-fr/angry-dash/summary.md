@@ -28,8 +28,8 @@
 * [Configuration](server/config)
 
 # FAQ
-* [J'ai rencontré un bug, comment puis-je le signaler ?](http://06games.ddns.net:8887/fr-fr/angry-dash/faq#jai-rencontre-un-bug-comment-puis-je-le-signaler)
-* [Je suis bloqué et je n'ai pas pu trouver de solution sur ce wiki, que puis-je faire ?](http://06games.ddns.net:8887/fr-fr/angry-dash/faq#je-suis-bloque-et-je-nai-pas-pu-trouver-de-solution-sur-ce-wiki-que-puis-je-faire)
-* [J'ai un idée de nouvelle fonctionnalité, comment la faire parvenir aux développeurs ?](http://06games.ddns.net:8887/fr-fr/angry-dash/faq#jai-un-idee-de-nouvelle-fonctionnalite-comment-la-faire-parvenir-aux-developpeurs)
-* [Je ne suis pas satisfait d'une nouvelle mise à jour, comment montrer mon mécontentement ?](http://06games.ddns.net:8887/fr-fr/angry-dash/faq#je-ne-suis-pas-satisfait-dune-nouvelle-mise-a-jour-comment-montrer-mon-mecontentement)
-* [Ce wiki n'est pas à jour, puis-je le mettre à jour ?](http://06games.ddns.net:8887/fr-fr/angry-dash/faq#ce-wiki-nest-pas-a-jour-puis-je-le-mettre-a-jour)
+* [J'ai rencontré un bug, comment puis-je le signaler ?](faq#jai-rencontre-un-bug-comment-puis-je-le-signaler)
+* [Je suis bloqué et je n'ai pas pu trouver de solution sur ce wiki, que puis-je faire ?](faq#je-suis-bloque-et-je-nai-pas-pu-trouver-de-solution-sur-ce-wiki-que-puis-je-faire)
+* [J'ai un idée de nouvelle fonctionnalité, comment la faire parvenir aux développeurs ?](faq#jai-un-idee-de-nouvelle-fonctionnalite-comment-la-faire-parvenir-aux-developpeurs)
+* [Je ne suis pas satisfait d'une nouvelle mise à jour, comment montrer mon mécontentement ?](faq#je-ne-suis-pas-satisfait-dune-nouvelle-mise-a-jour-comment-montrer-mon-mecontentement)
+* [Ce wiki n'est pas à jour, puis-je le mettre à jour ?](faq#ce-wiki-nest-pas-a-jour-puis-je-le-mettre-a-jour)
