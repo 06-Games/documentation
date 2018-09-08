@@ -16,3 +16,7 @@ Vous pouvez nous montrer votre mécontentement sur [Discord](https://discord.gg/
 # Ce wiki n'est pas à jour, puis-je le mettre à jour ?
 **Oui, bien sur !**
 Nous serions ravie de recevoir un pull request de votre part sur [Github](https://github.com/06-Games/documentation)
+
+# Ma langue n'est pas disponible ou n'est plus à jour, puis-je corriger cela ?
+**Oui, bien sur !**
+Nous serions ravie de recevoir un pull request de votre part sur [Github](https://github.com/06-Games/Angry-Dash/tree/master/Langues)
