@@ -9,5 +9,5 @@
 | stop | `stop` | Arrête le serveur |
 | reload | `reload` | Recharge la carte et la configuration sans déconnecter les joueurs |
 | color | `color [HexColorNormalText] [HexColorInfoText] [HexColorErrorText]` | Change la couleur des textes |
-| **1.3 and later** |  |  |
+| **1.4 and later** |  |  |
 |clear | `clear` | Vide la console |
