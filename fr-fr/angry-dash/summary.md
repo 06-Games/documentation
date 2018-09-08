@@ -33,3 +33,4 @@
 * [J'ai un idée de nouvelle fonctionnalité, comment la faire parvenir aux développeurs ?](faq#jai-un-idee-de-nouvelle-fonctionnalite-comment-la-faire-parvenir-aux-developpeurs)
 * [Je ne suis pas satisfait d'une nouvelle mise à jour, comment montrer mon mécontentement ?](faq#je-ne-suis-pas-satisfait-dune-nouvelle-mise-a-jour-comment-montrer-mon-mecontentement)
 * [Ce wiki n'est pas à jour, puis-je le mettre à jour ?](faq#ce-wiki-nest-pas-a-jour-puis-je-le-mettre-a-jour)
+* [Ma langue n'est pas disponible ou n'est plus à jour, puis-je corriger cela ?](faq#ma-langue-nest-pas-disponible-ou-nest-plus-a-jour-puis-je-corriger-cela)
