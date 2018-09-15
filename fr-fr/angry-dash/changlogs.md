@@ -3,7 +3,7 @@
 
 # 0.2 : La grande version
 
-# 0.1.X : Les préparatifs
+# 0.1.x : Les préparatifs
 ## 0.1.3 : Stabilisation
 [![Download)](https://img.shields.io/badge/Download-0.1.3-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.1.3)
 * Corretion d'un bug avec les murs
