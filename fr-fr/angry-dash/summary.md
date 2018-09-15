@@ -35,4 +35,4 @@
 * [Ma langue n'est pas disponible ou n'est plus à jour, puis-je corriger cela ?](faq#ma-langue-nest-pas-disponible-ou-nest-plus-a-jour-puis-je-corriger-cela)
 * [Ce wiki n'est pas à jour, puis-je le mettre à jour ?](faq#ce-wiki-nest-pas-a-jour-puis-je-le-mettre-a-jour)
 
-[Changlogs](changlogs)
+**[Changlogs](changlogs)**
