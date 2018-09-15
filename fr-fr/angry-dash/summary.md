@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Sommaire d'Angry Dash -->
 
 
-[![Changlogs)](https://img.shields.io/badge/Changlogs-%20-%20.svg?style=style=for-the-badge)](changlogs)
+[![Changlogs)](https://img.shields.io/badge/Changlogs-%20-%20.svg?style=for-the-badge)](changlogs)
 # 1. Installation
 * 1.1. [Installation Android](install/android)
 * 1.2. [Installation Windows](install/windows)
