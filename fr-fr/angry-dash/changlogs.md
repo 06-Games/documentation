@@ -23,7 +23,7 @@
     * Ajout des musiques dans les niveaux, pour en séléctionner une, aller dans options > musiques. Choisissez votre musiques parmit une liste, ou  rechercher l'artiste en question, ou le nom de la musique grâce à notre filtre.
     
   * **Publication de niveaux**
-    * Ajout de la possibilité de publier vos propre niveaux au monde entiers !
+    * Ajout de la possibilité de publier vos propre niveaux au monde entier !
     * Et si vous voulez améliorer un de vos niveaux déjà publié, c'est aussi possible de le mettre à jour.
    
   * **Multi-Séléction**
