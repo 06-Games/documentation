@@ -7,7 +7,7 @@
 
 * <span style="font-size: 18px;">**Editeur**</span>
   * **Déplacement dans l'éditeur (android)**
-    * **Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile désormé !**
+    * Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile désormé !
 
   * **Déplacement dans l'éditeur (PC)**
     * Ajout d'un déplacement sur PC avec les touches : Flèche droit/gauche/haut/bas
