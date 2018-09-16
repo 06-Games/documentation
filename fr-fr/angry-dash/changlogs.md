@@ -1,7 +1,7 @@
 <!-- TITLE: Changlogs -->
 <!-- SUBTITLE: La liste des changements effectués à chaque version -->
 
-# 0.2.x : 
+# 0.2.x : Un passage important
 ## 0.2 : La grande version
 [![Download)](https://img.shields.io/badge/Download-0.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2)
 
