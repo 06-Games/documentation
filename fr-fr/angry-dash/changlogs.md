@@ -43,7 +43,7 @@
     * Ajout de votre inventaire, c'est ici que vous pouvez personnaliser votre personnage etc...
   
   * **Boutique**
-    * Cette boutique permet d'acheter des skins pour personnaliser votre personnage. Ammassez des pièces dans les niveaux du jeu ainsi que ceux en ligne. Attrapez-les tous !
+    * Cette boutique permet d'acheter des skins pour personnaliser votre personnage. Ammassez des pièces dans les niveaux du jeu ainsi que ceux en ligne. Attrapez-les toutes ! :)
   
 * <span style="font-size: 18px;">**Jouer**</span>
   * **Niveaux Officiels**
