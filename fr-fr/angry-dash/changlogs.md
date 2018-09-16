@@ -27,7 +27,7 @@
     * Et si vous voulez améliorer un de vos niveaux déjà publié, c'est aussi possible de le mettre à jour.
    
   * **Multi-Séléction**
-	  * Ajout de la multiséléction dans l'éditeur, vous pouvez séléctionner plusieurs blocs pour changer leurs couleurs ! Pratique.
+	  * Ajout de la multiséléction dans l'éditeur, vous pouvez séléctionner plusieurs blocs pour changer leurs attributs ! Pratique.
 
   *  **Récent**
      * Ajout d'un menu récents, vous permettant de reprendre votre dernière activité là où vous l'avez laissé.
