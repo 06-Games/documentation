@@ -7,8 +7,8 @@
 
 * <span style="font-size: 18px;">**Editeur**</span>
   * **Déplacement dans l'éditeur**
-    * <span style="font-family: Courier New;">PC :</span> Ajout d'un déplacement sur PC avec les touches : Flèche `droite`/`gauche`/`haut`/`bas`
-    * <span style="font-family: Courier New;">Android :</span> Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile désormé !
+    * **<span style="font-family: Courier New;">PC :</span>** Ajout d'un déplacement sur PC avec les touches : Flèche `droite`/`gauche`/`haut`/`bas`
+    * **<span style="font-family: Courier New;">Android :</span>** Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile désormé !
 
   * **Les Triggers**
     * Ajout des évènements (appelé Triggers) dans l'éditeur afin de pouvoir controler votre niveaux a volonté, comme par exemple le point de départ et d'arrivé.
