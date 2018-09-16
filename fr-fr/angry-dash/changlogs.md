@@ -51,7 +51,7 @@
   
   * **Serveur** 
     * Ajout des serveurs, cela permet d'être plusieurs dans un même niveaux (voir la [section dédié](summary#angry-dash-server))
-    * Préparation des serveurs officiels, ils ne sont mal heureusement pas encore disponible :/
+    * Préparation des serveurs officiels, ils ne sont malheureusement pas encore disponible :/
 
 # 0.1.x : Les préparatifs
 ## 0.1.3 : Stabilisation
