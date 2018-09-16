@@ -31,7 +31,7 @@
 	* **Multi-Séléction**
 	  * Ajout de la multiséléction dans l'éditeur, vous pouvez séléctionner plusieurs blocs pour changer leurs couleurs ! Pratique.
 
-*  **Récent**
+  *  **Récent**
     * Ajout d'un menu récents, vous permettant de reprendre votre dernière activité là où vous l'avez laissé.
 
 
