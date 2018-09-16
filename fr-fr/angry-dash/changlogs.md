@@ -2,6 +2,7 @@
 <!-- SUBTITLE: La liste des changements effectués à chaque version -->
 
 # 0.2 : La grande version
+[![Download)](https://img.shields.io/badge/Download-0.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2)
 
 # 0.1.x : Les préparatifs
 ## 0.1.3 : Stabilisation
@@ -9,8 +10,6 @@
 * Corretion d'un bug avec les murs
 * Recréation du menu accueil
 * Support multi-résolution
-
-
 
 ## 0.1.2 : Les murs
 [![Download)](https://img.shields.io/badge/Download-0.1.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.1.2)
