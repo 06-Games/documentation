@@ -6,18 +6,12 @@
 [![Download)](https://img.shields.io/badge/Download-0.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2)
 
 * <span style="font-size: 18px;">**Editeur**</span>
-  * **Déplacement dans l'éditeur (android)**
-  * **Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile !**
-
-  * **Déplacement dans l'éditeur (PC)**
-    * Ajout d'un déplacement sur PC avec les touches : Flèche droit/gauche/haut/bas
+  * **Déplacement dans l'éditeur**
+    * PC : Ajout d'un déplacement sur PC avec les touches : Flèche `droite`/`gauche`/`haut`/`bas`
+    * Android : Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile désormé !
 
   * **Les Triggers**
     * Ajout des évènements (appelé Triggers) dans l'éditeur afin de pouvoir controler votre niveaux a volonté, comme par exemple le point de départ et d'arrivé.
-
-  * **Collisions**
-    * Ajout de nouveau type de collisions comme le rebond ou l'accélérateur ainsi que la collisions qui ture :O !
-    * Fix : Bon, nous sommes désolé mais vous ne pouvez plus traverser les murs... :( MAIS C'EST TROP COOL !
 
   * **Grille**
     * Ajout d'une grille dans l'éditeur pour mieux savoir où sont nos blocs. Elle désactivable et réactivable en un clique en haut à droite grâce au bouton déstiné.
@@ -27,7 +21,7 @@
 
   * **Musique**
     * Ajout des musiques dans les niveaux, pour en séléctionner une, aller dans options > musiques. Choisissez votre musiques parmit une liste, ou  rechercher l'artiste en question, ou le nom de la musique grâce à notre filtre.
-
+    
   * **Publication de niveaux**
     * Ajout de la possibilité de publier vos propre niveaux au monde entiers !
     * Et si vous voulez améliorer un de vos niveaux déjà publié, c'est aussi possible de le mettre à jour.
@@ -37,7 +31,7 @@
 
   *  **Récent**
     * Ajout d'un menu récents, vous permettant de reprendre votre dernière activité là où vous l'avez laissé.
-    * 
+    
 * <span style="font-size: 18px;">**Menu Principal**</span>
   * **Options**
     * Ajout de nouvelles options, comme par exemple l'antialiasing, ou la suppression des fichiers logs.
