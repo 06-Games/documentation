@@ -7,7 +7,7 @@
 
 * <span style="font-size: 18px;">**Editeur**</span>
   * **Déplacement dans l'éditeur**
-	* <span style="font-family: Courier New; font-weight: bold;">PC :</span> Ajout d'un déplacement sur PC avec les touches : Flèche `droite`/`gauche`/`haut`/`bas`
+	  * <span style="font-family: Courier New; font-weight: bold;">PC :</span> Ajout d'un déplacement sur PC avec les touches : Flèche `droite`/`gauche`/`haut`/`bas`
     * <span style="font-family: Courier New; font-weight: bold;">Android :</span> Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile désormé !
 
   * **Les Triggers**
