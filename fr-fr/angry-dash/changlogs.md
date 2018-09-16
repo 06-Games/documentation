@@ -37,7 +37,7 @@
     * Ajout de nouvelles options, comme par exemple l'antialiasing, ou la suppression des fichiers logs.
   
   * **Profile**
-    * Ajout du menu profile, il permet de gérer votre compte, vos niveaux et vos amis
+    * Ajout du menu profile, il permet de gérer votre compte et vos niveaux (et vos amis, pas encore disponible :/)
   
   * **Inventaire**
     * Ajout de votre inventaire, c'est ici que vous pouvez personnaliser votre personnage etc...
