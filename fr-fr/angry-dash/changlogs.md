@@ -26,7 +26,7 @@
     * Ajout de la possibilité de publier vos propre niveaux au monde entiers !
     * Et si vous voulez améliorer un de vos niveaux déjà publié, c'est aussi possible de le mettre à jour.
    
-	* **Multi-Séléction**
+* **Multi-Séléction**
 	  * Ajout de la multiséléction dans l'éditeur, vous pouvez séléctionner plusieurs blocs pour changer leurs couleurs ! Pratique.
 
   *  **Récent**
