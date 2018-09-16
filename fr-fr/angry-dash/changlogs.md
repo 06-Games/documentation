@@ -7,7 +7,7 @@
 
 * <span style="font-size: 18px;">**Editeur**</span>
   * **Déplacement dans l'éditeur (android)**
-    * Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile désormé !
+  * **Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile !**
 
   * **Déplacement dans l'éditeur (PC)**
     * Ajout d'un déplacement sur PC avec les touches : Flèche droit/gauche/haut/bas
@@ -24,7 +24,15 @@
   * **Musique**
     * Ajout des musiques dans les niveaux, pour en séléctionner une, aller dans options > musiques. Choisissez votre musiques parmit une liste, ou  rechercher l'artiste en question, ou le nom de la musique grâce à notre filtre.
 
-  * **Title**
+  * **Publication de niveaux**
+    * Ajout de la possibilité de publier vos propre niveaux au monde entiers !
+    * Et si vous voulez améliorer un de vos niveaux déjà publié, c'est aussi possible de le mettre à jour.
+   
+	* **Multi-Séléction**
+	  * Ajout de la multiséléction dans l'éditeur, vous pouvez séléctionner plusieurs blocs pour changer leurs couleurs ! Pratique.
+
+*  **Récent**
+    * Ajout d'un menu récents, vous permettant de reprendre votre dernière activité là où vous l'avez laissé.
 
 
 # 0.1.x : Les préparatifs
