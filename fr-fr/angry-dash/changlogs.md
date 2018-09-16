@@ -51,7 +51,6 @@
   
   * **Serveur** 
     * Ajout des serveurs en LAN et en ligne, cela permet d'être plusieurs dans un même niveaux (voir la [section dédié](summary#angry-dash-server))
-    * Ajout d'une console avec des commandes sur le serveur
 
 # 0.1.x : Les préparatifs
 ## 0.1.3 : Stabilisation
