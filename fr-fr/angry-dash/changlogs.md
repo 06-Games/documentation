@@ -50,7 +50,8 @@
     * Ajout des 10 premiers niveaux du jeu !
   
   * **Serveur** 
-    * Ajout des serveurs en LAN et en ligne, cela permet d'être plusieurs dans un même niveaux (voir la [section dédié](summary#angry-dash-server))
+    * Ajout des serveurs, cela permet d'être plusieurs dans un même niveaux (voir la [section dédié](summary#angry-dash-server))
+    * Préparation des serveurs officiels, ils ne sont mal heureusement pas encore disponible :/
 
 # 0.1.x : Les préparatifs
 ## 0.1.3 : Stabilisation
