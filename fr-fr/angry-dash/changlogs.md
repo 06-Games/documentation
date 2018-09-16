@@ -33,6 +33,8 @@
 
   *  **Récent**
     * Ajout d'un menu récents, vous permettant de reprendre votre dernière activité là où vous l'avez laissé.
+    * 
+* <span style="font-size: 18px;">**Menu Principale**</span>
 
 
 # 0.1.x : Les préparatifs
