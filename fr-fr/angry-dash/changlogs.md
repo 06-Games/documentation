@@ -5,7 +5,7 @@
 [![Download)](https://img.shields.io/badge/Download-0.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2)
 
 * **Editeur**
- * Déplacement dans l'éditeur (android)
+  * Déplacement dans l'éditeur (android)
  * Ajout d'un déplacement intuitif sur android, créer des niveaux n'a jamais été aussi facile désormé !
 
  * Déplacement dans l'éditeur (PC)
