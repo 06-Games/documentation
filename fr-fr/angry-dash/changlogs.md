@@ -2,6 +2,21 @@
 <!-- SUBTITLE: La liste des changements effectués à chaque version -->
 
 # 0.2.x : Un passage important
+## 0.2.1 : Une version pas si petite
+[![Download)](https://img.shields.io/badge/Download-0.2.1-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2.1)
+
+* <span style="font-size: 18px;">**Editeur**</span>
+  * **Les triggers**
+		* Un nouvel évènement : Le Move
+			* Possiblité de déplacer des blocs ou la caméra
+			* Possibilité d'effectuer des rotation des blocs ou de la caméra
+		* Menu éditer différent pour chaque type de triggers/blocs
+	* **Des niveau plus affirmés**
+		* Vos niveau n'ont jamais été aussi complet : avec notre nouveau format de niveau, les possibilités sont infini
+		* Des niveaux jamais obsolètes : avec notre système de mise à jour intelligente, vos niveaux seront toujours utilisable, même après plusieurs mise à jour
+		* Les coordonées négatives ne nous font plus peur, vous pouvait dorénavant placer des blocs en coordonées négatives
+		* 
+
 ## 0.2 : La grande version
 [![Download)](https://img.shields.io/badge/Download-0.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2)
 
