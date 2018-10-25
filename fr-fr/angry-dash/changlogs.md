@@ -33,7 +33,7 @@
 	* On peut de nouveau télécharger ses niveaux publiés
 	* Correction d'une erreur survenant lors de la dé-sélection de tout les blocs
 	* Les menus ne se changent plus dans l'éditeur quand on entre un nombre
-	* La barre de progression refonctionne durant le téléchargement des niveaux
+	* La barre de progression refonctionne durant le téléchargement des niveaux officiels
 	* On peut de nouveau ouvrir un niveau si le dossier Musics n'existe pas
 	* Les niveaux supprimés ne sont plus affichés dans le menu récent
 
