@@ -10,14 +10,14 @@
 		* Un nouvel évènement : Le Move
 			* Possiblité de déplacer des blocs ou la caméra
 			* Possibilité d'effectuer des rotation des blocs ou de la caméra
-		* Menu éditer différent pour chaque type de triggers/blocs
+		  * Menu éditer différent pour chaque type de triggers/blocs
 
-	* **Des niveau plus affirmés**
+  * **Des niveau plus affirmés**
 		* Vos niveau n'ont jamais été aussi complet : avec notre nouveau format de niveau, les possibilités sont infini
 		* Des niveaux jamais obsolètes : avec notre système de mise à jour intelligente, vos niveaux seront toujours utilisable, même après plusieurs mise à jour
 		* Les coordonées négatives ne nous font plus peur, vous pouvait dorénavant placer des blocs en coordonées négatives
 
-	* **Un éditeur stable**
+  * **Un éditeur stable**
 		* Avec cette version, adieu les décalage de blocs
 		* La grille est maintenant parfaitement fonctionnel, elle va maintenant être votre meilleur ami
 		* Vous pouvez dorénavant avoir un aperçu du bloc que vous éditez lorsque vous changez sa couleur
