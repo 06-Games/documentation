@@ -2,6 +2,21 @@
 <!-- SUBTITLE: La liste des changements effectués à chaque version -->
 
 # 0.2.x : Un passage important
+## 0.2.2 : 
+[![Download)](https://img.shields.io/badge/Download-0.2.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2.2)
+
+* <span style="font-size: 18px;">**Editeur**</span>
+  * **Le trigger Move**
+		* Global Rotation : Possibilité d'effectuer une rotation en un seul bloc au lieu de chaque blocs indépendamment
+		* Le calcule du reset est plus fiable
+		* Les translations en fonction du joueur fonctionnent correctement
+		* Ajout de traductions manquantes
+		* Optimisation
+		* Le Move repose sur le temps écoulé au lieu d'un nombre d'image défini pouvant causer des problème en cas de chute de FPS
+  * **Mais aussi...**
+		* Le déplacement Android n'est plus inversé
+		* Les niveaux vides ne bloquent plus le jeu
+
 ## 0.2.1 : Une version pas si petite
 [![Download)](https://img.shields.io/badge/Download-0.2.1-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2.1)
 
