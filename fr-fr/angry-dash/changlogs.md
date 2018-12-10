@@ -16,6 +16,7 @@
   * **Mais aussi...**
 		* Le déplacement Android n'est plus inversé
 		* Les niveaux vides ne bloquent plus le jeu
+		* Suppression des publicID
 
 ## 0.2.1 : Une version pas si petite
 [![Download)](https://img.shields.io/badge/Download-0.2.1-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2.1)
