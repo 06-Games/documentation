@@ -9,17 +9,15 @@ Le but d'Angry Dash est de parcourir des niveaux parsemé d'obstacles, esquivez-
 Cependant, plusieurs mode de jeux existes.
 
 # Jouer ...
-## Au niveaux officiels
-Ces niveaux sont créer par notre équipe et permettent un rendement plus important en pièces (monnaie du jeu). 
-Ils sont accéssible via le bouton **Jouer** présent sur l'écran d'acceuil.
+## Seul
+### Au niveaux officiels
+Ces niveaux sont créer par notre équipe et permettent un rendement important en pièces (10 - 25 pièces par niveau). 
 
-## Au niveaux de la communauté
-Ces niveaux ont été créer par des joueurs du monde entier,. Nous ne pouvons vous garantir qu'ils aient été joué et/ou vérifié par notre équipe. Ils permettent donc un rendement moins important en pièces (monnaie du jeu). 
-Ils sont accéssible via le bouton **Monde** présent dans l'éditeur.
+### Au niveaux de la communauté
+Ces niveaux ont été créer par des joueurs du monde entier. Nous ne pouvons vous garantir qu'ils aient été joué et/ou vérifié par notre équipe. Ils permettent donc un rendement moins important en pièces (monnaie du jeu). 
 
 
-## Sur des serveurs
-
+## Ou à plusieurs
 ### Serveurs officiels
 > Acctuelement indisponible
 
@@ -29,12 +27,6 @@ Ces serveurs proposent différents mode de jeu :
 
 D'autre modes de jeux seront ajoutés par la suite, soyez patients :D
 ### Serveurs communautaires
-Tout le monde peut héberger ce genre de serveur, ils ne en aucun cas approuvé par notre équipe et nous ne sommes en aucune circonstance responsable des problèmes que vous pourriez y rencontrer
+Tout le monde peut héberger ce genre de serveur, ils ne en aucun cas approuvé par notre équipe et nous ne sommes en aucune circonstance responsable des problèmes que vous pourriez y rencontrer.
 
 **Pour plus d'information consultez notre [documentation](/fr-fr/angry-dash/summary#angry-dash-server) sur Angry Dash Server.**
-
-### Serveurs locaux
-> Ce moyen est obsolète et n'est plus compris dans les nouvelles version du jeu
-
-Dans le menu de multi-joueur, sélectionnez **Héberger** pour démarrer le serveur.
-Vos autres appareils connectés au réseau pourrons rejoindre le serveur grace à l'[ip local](http://trouver-ip.com/adresse-ip-locale.php) de votre appareil et au port *20000*
