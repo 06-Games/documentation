@@ -12,5 +12,5 @@
 
 # Via Gogs (pre-builds)
 1. [Connectez-vous](https://06games.ddns.net:8888/user/login) avec un compte développeur
-2. [Téléchargez](https://06games.ddns.net:8888/06Games/Angry_Dash/releases?after=2018.11.09) le build de votre choix
+2. [Téléchargez](https://06games.ddns.net:8888/06Games/Angry_Dash/releases) le build de votre choix
 3. Executez le programme d'installation
