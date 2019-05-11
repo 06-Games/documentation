@@ -1,6 +1,10 @@
-<!-- TITLE: Sommaire -->
-<!-- SUBTITLE: Sommaire d'Angry Dash -->
-
+---
+title: Sommaire
+description: Sommaire d'Angry Dash
+published: true
+date: 2019-05-11T16:53:07.566Z
+tags: 
+---
 
 [![Changlogs](https://img.shields.io/badge/Changlogs-%20-%20.svg?style=for-the-badge)](changlogs)
 # 1. Installation
