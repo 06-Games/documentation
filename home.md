@@ -2,16 +2,16 @@
 title: Accueil
 description: 
 published: true
-date: 2019-07-21T14:37:51.043Z
+date: 2019-07-21T15:28:52.334Z
 tags: 
 ---
 
 # Jeux
-* [Angry Dash](angry-dash)
+* [Angry Dash](angry-dash/summary)
 * [L'Épopée Médiévale](epopee-medievale/summary)
 
-# Application
+# Applications
 * [06Games Launcher](06games-launcher/summary)
 
-# Général
+# Autres
 * [Compte 06Games](06games-account/summary)
