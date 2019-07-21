@@ -2,7 +2,7 @@
 title: Notes de version
 description: La liste des changements effectués à chaque version
 published: true
-date: 2019-07-21T18:46:52.432Z
+date: 2019-07-21T19:07:44.321Z
 tags: 
 ---
 
@@ -15,16 +15,37 @@ tags:
 		* Ils contiennent les textures et les musiques du jeu ainsi que les fichiers de langue
 		* Les textures peuvent être animé grâce au support de la norme [APNG](https://developer.mozilla.org/fr/docs/Images_PNG_anim%C3%A9es)
 		* Personalisation accrue des textures au travers de [configurations](https://next.json-generator.com/4J-tADUCH) dans des fichiers JSON du même ID
-	* Les niveaux sont maintenant en XML
 * <span style="font-size: 18px;">**Gameplay**</span>
   * Possibilité de mettre en pause un niveau joué en solo
-  * Recompense à la fin d'un niveau officiel 
-  	* 
+  * Recompense à la fin d'un niveau officiel
+  * Le joueur laisse un tracé derrière lui
+  * Notation et commentaires des niveaux de la communauté
+  * Paramétrage des niveaux
+  	* Conditions de victoire: Nombre de lancés maximum, ...
+    * Distance maximale par lancé
+  * **Bug fix:** Les rebonds fonctionnent normalement
+  * **Bug fix:** Les accélérations fonctionnent correctement
+* <span style="font-size: 18px;">**Éditeur**</span>
+	* Sauvegarde automatique
+  * Affichage des coordonnées
+  * Le retour dans l'éditeur après avoir testé un niveau est bien plus rapide
+  * Les layers sont maintenant pleinement fonctionnels
+  * **Bug fix:** la grille a été totalement repensé afin d'augmenter grandement les performances du jeu, fini les lags lors des mouvements !
 * <span style="font-size: 18px;">**Autres changements**</span>
 	* Notre mignifique logo s'affiche au démarrage du jeu
   * Ajout d'un menu debogage
+  	* Affichage de Graphy avec des statistiques avancées sur les performaces du jeu
   	* Affichage des erreurs directement dans jeu
-    * 
+    * Affichage des coordonées dans le player de niveau
+		*	Affichage de la config de l'appareil
+  * Forte réduction de la taille de l'application
+  * Optimisation des chargements
+  * Support ARM64
+  * Amélioration de la sécurité des comptes 06Games
+	* Les niveaux sont maintenant en XML
+  	* Plus faible impact sur les performances
+    * Meilleur flexibilité (préparatifs pour le modding 😉)
+    * Espace disque réduit
 
 # 0.2.x : Un passage important
 ## 0.2.2 : Les derniers ajutements
