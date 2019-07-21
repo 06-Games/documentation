@@ -7,7 +7,7 @@ tags:
 ---
 
 # Jeux
-* [Angry Dash](angry-dash/summary)
+* [Angry Dash](angry-dash)
 * [L'Épopée Médiévale](epopee-medievale/summary)
 
 # Application
