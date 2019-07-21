@@ -2,9 +2,29 @@
 title: Notes de version
 description: La liste des changements effectués à chaque version
 published: true
-date: 2019-07-21T14:47:37.174Z
+date: 2019-07-21T18:46:52.432Z
 tags: 
 ---
+
+# 0.3.x : 
+## 0.3 : La personalisation
+
+* <span style="font-size: 18px;">**Interface**</span>
+	* Refonte presque totale de l'interface
+	* Ajout des Ressources Packs
+		* Ils contiennent les textures et les musiques du jeu ainsi que les fichiers de langue
+		* Les textures peuvent être animé grâce au support de la norme [APNG](https://developer.mozilla.org/fr/docs/Images_PNG_anim%C3%A9es)
+		* Personalisation accrue des textures au travers de [configurations](https://next.json-generator.com/4J-tADUCH) dans des fichiers JSON du même ID
+	* Les niveaux sont maintenant en XML
+* <span style="font-size: 18px;">**Gameplay**</span>
+  * Possibilité de mettre en pause un niveau joué en solo
+  * Recompense à la fin d'un niveau officiel 
+  	* 
+* <span style="font-size: 18px;">**Autres changements**</span>
+	* Notre mignifique logo s'affiche au démarrage du jeu
+  * Ajout d'un menu debogage
+  	* Affichage des erreurs directement dans jeu
+    * 
 
 # 0.2.x : Un passage important
 ## 0.2.2 : Les derniers ajutements
