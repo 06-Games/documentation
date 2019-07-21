@@ -2,31 +2,31 @@
 title: Sommaire
 description: Sommaire d'Angry Dash
 published: true
-date: 2019-07-21T14:40:46.357Z
+date: 2019-07-21T15:33:29.766Z
 tags: 
 ---
 
 [![Changlogs](https://img.shields.io/badge/Changlogs-%20-%20.svg?style=for-the-badge)](changlogs)
-# 1. Installation
-* 1.1. [Installation Android](install/android)
-* 1.2. [Installation Windows](install/windows)
+# Installation
+* [Installation Android](install/android)
+* [Installation Windows](install/windows)
 
-# 2. Premier démarrage
-* 2.1. [Connection au compte 06Games](first-start/06games-account)
+# Premier démarrage
+* [Connection au compte 06Games](first-start/06games-account)
 
-# 3. Le menu d'accueil
-* 3.1. [Jouer](menu/home/play)
-* 3.2. [Paramètres](menu/home/settings)
-* 3.3. [Magasin](menu/home/shop)
-* 3.4. [Inventaire](menu/home/inventory)
-* 3.5. [Profil](menu/home/profile)
+# Le menu d'accueil
+* [Jouer](menu/home/play)
+* [Paramètres](menu/home/settings)
+* [Magasin](menu/home/shop)
+* [Inventaire](menu/home/inventory)
+* [Profil](menu/home/profile)
 
-# 4. L'éditeur
-* 4.1. [Récent](menu/editor/recent)
-* 4.2. [Explorer](menu/editor/explore)
-	* 4.2.1. [Le menu Explorer](menu/editor/explore#le-menu-explorer)
-	* 4.2.2. [L'éditeur](menu/editor/explore#lediteur)
-* 4.3. [Monde](menu/editor/published-level)
+# L'éditeur
+* [Récent](menu/editor/recent)
+* [Explorer](menu/editor/explore)
+	* [Le menu Explorer](menu/editor/explore#le-menu-explorer)
+	* [L'éditeur](menu/editor/explore#lediteur)
+* [Monde](menu/editor/published-level)
 
 # Angry Dash Server
 * [Installation](server/install)
