@@ -2,7 +2,7 @@
 title: Sommaire
 description: Sommaire d'Angry Dash
 published: true
-date: 2019-07-21T15:35:01.085Z
+date: 2019-07-22T12:31:53.151Z
 tags: 
 ---
 
@@ -17,7 +17,6 @@ tags:
 # Le menu d'accueil
 * [Jouer](angry-dash/menu/home/play)
 * [Paramètres](angry-dash/menu/home/settings)
-* [Magasin](angry-dash/menu/home/shop)
 * [Inventaire](angry-dash/menu/home/inventory)
 * [Profil](angry-dash/menu/home/profile)
 
