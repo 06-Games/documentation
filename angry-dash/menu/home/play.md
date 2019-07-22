@@ -2,7 +2,7 @@
 title: Jouer
 description: Les differentes façons de jouer à Angry Dash
 published: true
-date: 2019-07-21T15:20:32.979Z
+date: 2019-07-21T15:20:37.647Z
 tags: 
 ---
 

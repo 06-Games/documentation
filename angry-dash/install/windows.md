@@ -2,7 +2,7 @@
 title: Windows
 description: Guide d'installation d'Angry Dash sous Windows
 published: true
-date: 2019-07-21T15:08:35.451Z
+date: 2019-07-21T15:08:40.175Z
 tags: 
 ---
 

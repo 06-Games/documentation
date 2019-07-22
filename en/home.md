@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to 06Games documentation
 published: true
-date: 2019-07-21T17:09:38.970Z
+date: 2019-07-21T17:09:43.428Z
 tags: 
 ---
 

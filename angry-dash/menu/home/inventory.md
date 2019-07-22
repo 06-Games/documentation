@@ -2,7 +2,7 @@
 title: Inventaire
 description: Votre apparence dans le jeu
 published: true
-date: 2019-07-22T12:17:20.625Z
+date: 2019-07-22T12:17:25.113Z
 tags: 
 ---
 

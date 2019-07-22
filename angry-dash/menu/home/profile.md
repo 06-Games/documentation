@@ -2,7 +2,7 @@
 title: Profil
 description: La gestion de votre profil Angry Dash
 published: true
-date: 2019-07-21T15:19:19.188Z
+date: 2019-07-21T15:19:23.804Z
 tags: 
 ---
 

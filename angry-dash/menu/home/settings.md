@@ -2,7 +2,7 @@
 title: Paramètres
 description: Les différents réglages du jeu
 published: true
-date: 2019-07-22T12:31:27.764Z
+date: 2019-07-22T12:31:32.366Z
 tags: 
 ---
 
