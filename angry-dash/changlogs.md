@@ -2,12 +2,13 @@
 title: Notes de version
 description: La liste des changements effectués à chaque version
 published: true
-date: 2019-07-21T19:07:49.557Z
+date: 2019-08-30T17:07:10.561Z
 tags: 
 ---
 
-# 0.3.x : 
+# 0.3: La mise à jour solitaire
 ## 0.3 : La personalisation
+[![Download)](https://img.shields.io/badge/Download-0.3-blue.svg?style=flat-square)](https://github.com/06Games/Angry_Dash/releases/tag/2019.05.26)
 
 * <span style="font-size: 18px;">**Interface**</span>
 	* Refonte presque totale de l'interface
