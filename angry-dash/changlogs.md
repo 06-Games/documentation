@@ -2,12 +2,36 @@
 title: Notes de version
 description: La liste des changements effectués à chaque version
 published: true
-date: 2019-08-30T17:07:10.561Z
+date: 2019-09-14T19:01:56.589Z
 tags: 
 ---
 
+# 0.4.x
+## 0.4: Plus de libertés
+> Cette mise à jour est encore au stade de pré-publication, les nouvelles fonctionnalités répertoriées ci-dessous sont sujettes à des changements drastiques.
+{.is-info}
+* <span style="font-size: 18px;">**Éditeur**</span>
+  * Masquage automatique de la Toolbox
+  * Les évènements sont rangés dans le menu build de l'éditeur
+* <span style="font-size: 18px;">**Gameplay**</span>
+  * Évènements programmables
+      * Programmation visuelle et textuelle des évènements
+      * Programmation en Lua, plus accessible que le C#
+  * Début d'une API pour Angry Dash, plein d'actions disponibles, tels que:
+      * Le changement de couleur
+      * Faire perdre/gagner le niveau
+      * La téléportation   
+  * Groupes de blocs
+  * De nouveaux blocs
+* <span style="font-size: 18px;">**Autres changements**</span>
+  * Avertissement de connexion à internet: un pop-up s'affiche lors d'un changement d'état de la connexion à internet
+  * Dé-sélection des niveaux dans la liste des niveaux éditables
+  * Support natif des processeurs 64 bits sur Android
+  * Les collisions fonctionnent correctement lorsque les textures ne font pas 100x100 pixels
+
+
 # 0.3: La mise à jour solitaire
-## 0.3 : La personalisation
+## 0.3: La personalisation
 [![Download)](https://img.shields.io/badge/Download-0.3-blue.svg?style=flat-square)](https://github.com/06Games/Angry_Dash/releases/tag/2019.05.26)
 
 * <span style="font-size: 18px;">**Interface**</span>
@@ -48,8 +72,8 @@ tags:
     * Meilleur flexibilité (préparatifs pour le modding 😉)
     * Espace disque réduit
 
-# 0.2.x : Un passage important
-## 0.2.2 : Les derniers ajutements
+# 0.2.x: Un passage important
+## 0.2.2: Les derniers ajutements
 [![Download)](https://img.shields.io/badge/Download-0.2.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2.2)
 
 * <span style="font-size: 18px;">**Editeur**</span>
@@ -65,7 +89,7 @@ tags:
 		* Les niveaux vides ne bloquent plus le jeu
 		* Suppression des publicID
 
-## 0.2.1 : Une version pas si petite
+## 0.2.1: Une version pas si petite
 [![Download)](https://img.shields.io/badge/Download-0.2.1-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2.1)
 * <span style="font-size: 18px;">**Editeur**</span>
   * **Les triggers**, un nouvel évènement : le Move
@@ -94,7 +118,7 @@ tags:
 	* On peut de nouveau ouvrir un niveau si le dossier Musics n'existe pas
 	* Les niveaux supprimés ne sont plus affichés dans le menu récent
 
-## 0.2 : La grande version
+## 0.2: La grande version
 [![Download)](https://img.shields.io/badge/Download-0.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2)
 * <span style="font-size: 18px;">**Editeur**</span>
   * **Déplacement dans l'éditeur**
@@ -131,23 +155,23 @@ tags:
     * Ajout des serveurs, cela permet d'être plusieurs dans un même niveaux (voir la [section dédié](summary#angry-dash-server))
     * Préparation à l'arrivé des serveurs officiels (ils ne sont malheureusement pas encore disponible :/)
 
-# 0.1.x : Les préparatifs
-## 0.1.3 : Stabilisation
+# 0.1.x: Les préparatifs
+## 0.1.3: Stabilisation
 [![Download)](https://img.shields.io/badge/Download-0.1.3-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.1.3)
 * Corretion d'un bug avec les murs
 * Recréation du menu accueil
 * Support multi-résolution
 
-## 0.1.2 : Les murs
+## 0.1.2: Les murs
 [![Download)](https://img.shields.io/badge/Download-0.1.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.1.2)
 * Ajout des murs
 * Ajout d'une musique dans l'accueil
 
-## 0.1.1 : Le déplacement
+## 0.1.1: Le déplacement
 [![Download)](https://img.shields.io/badge/Download-0.1.1-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.1.1)
 * Joystick invisible sur le player
 * Remplacement des bandes blanches par des bandes noires
 
-## 0.1 : Première version
+## 0.1: Première version
 [![Download)](https://img.shields.io/badge/Download-0.1-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.1)
 * Version initiale
