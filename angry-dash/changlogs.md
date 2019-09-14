@@ -2,7 +2,7 @@
 title: Notes de version
 description: La liste des changements effectués à chaque version
 published: true
-date: 2019-09-14T19:04:30.409Z
+date: 2019-09-14T19:20:38.484Z
 tags: 
 ---
 
@@ -152,7 +152,7 @@ tags:
   * **Niveaux Officiels**
     * Ajout des 10 premiers niveaux du jeu !
   * **Serveur** 
-    * Ajout des serveurs, cela permet d'être plusieurs dans un même niveaux (voir la [section dédié](summary#angry-dash-server))
+    * Ajout des serveurs, cela permet d'être plusieurs dans un même niveaux (voir la [section dédié](./#angry-dash-server))
     * Préparation à l'arrivé des serveurs officiels (ils ne sont malheureusement pas encore disponible :/)
 
 # 0.1.x: Les préparatifs
