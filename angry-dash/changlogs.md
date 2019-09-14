@@ -2,7 +2,7 @@
 title: Notes de version
 description: La liste des changements effectués à chaque version
 published: true
-date: 2019-09-14T19:01:56.589Z
+date: 2019-09-14T19:04:30.409Z
 tags: 
 ---
 
@@ -27,7 +27,7 @@ tags:
   * Avertissement de connexion à internet: un pop-up s'affiche lors d'un changement d'état de la connexion à internet
   * Dé-sélection des niveaux dans la liste des niveaux éditables
   * Support natif des processeurs 64 bits sur Android
-  * Les collisions fonctionnent correctement lorsque les textures ne font pas 100x100 pixels
+  * **Bug fix:**  Les collisions fonctionnent correctement lorsque les textures ne font pas 100x100 pixels
 
 
 # 0.3: La mise à jour solitaire
@@ -77,37 +77,37 @@ tags:
 [![Download)](https://img.shields.io/badge/Download-0.2.2-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2.2)
 
 * <span style="font-size: 18px;">**Editeur**</span>
-  * **La trigger Move**
-		* Global Rotation : Possibilité d'effectuer une rotation en un seul bloc au lieu de chaque blocs indépendamment
-		* Le calcule du reset est plus fiable
+	* **La trigger Move**
+  	* Global Rotation : Possibilité d'effectuer une rotation en un seul bloc au lieu de chaque blocs indépendamment
+  	* Le calcule du reset est plus fiable
 		* Les translations en fonction du joueur fonctionnent correctement
 		* Ajout de traductions manquantes
 		* Optimisation
 		* Le Move repose sur le temps écoulé au lieu d'un nombre d'image défini pouvant causer des problème en cas de chute de FPS
-  * **Mais aussi...**
-		* Le déplacement Android n'est plus inversé
+	* **Mais aussi...**
+  	* Le déplacement Android n'est plus inversé
 		* Les niveaux vides ne bloquent plus le jeu
 		* Suppression des publicID
 
 ## 0.2.1: Une version pas si petite
 [![Download)](https://img.shields.io/badge/Download-0.2.1-blue.svg?style=flat-square)](https://github.com/06-Games/Angry-Dash/releases/tag/0.2.1)
 * <span style="font-size: 18px;">**Editeur**</span>
-  * **Les triggers**, un nouvel évènement : le Move
+	* **Les triggers**, un nouvel évènement : le Move
 		* Possiblité de déplacer des blocs ou la caméra
 		* Possibilité d'effectuer des rotation des blocs ou de la caméra
 		* Menu éditer différent pour chaque type de triggers/blocs
-  * **Des niveau plus affirmés**
+	* **Des niveau plus affirmés**
 		* Vos niveau n'ont jamais été aussi complet : avec notre nouveau format de niveau, les possibilités sont infini
 		* Des niveaux jamais obsolètes : avec notre système de mise à jour intelligente, vos niveaux seront toujours utilisable, même après plusieurs mise à jour
 		* Les coordonées négatives ne nous font plus peur, vous pouvait dorénavant placer des blocs en coordonées négatives
-  * **Un éditeur stable**
+	* **Un éditeur stable**
 		* Avec cette version, adieu les décalage de blocs
 		* La grille est maintenant parfaitement fonctionnel, elle va maintenant être votre meilleur ami
 		* Vous pouvez dorénavant avoir un aperçu du bloc que vous éditez lorsque vous changez sa couleur
 * <span style="font-size: 18px;">**Quelques optimisation**</span>
-  * L'accès à l'éditeur est maintenant plus rapide
-  * Un écran de chargement a été ajouté lors de l'édition d'un niveau
-  * Les fichiers temporaires sont supprimés à la sortie du jeu
+	* L'accès à l'éditeur est maintenant plus rapide
+	* Un écran de chargement a été ajouté lors de l'édition d'un niveau
+	* Les fichiers temporaires sont supprimés à la sortie du jeu
 * <span style="font-size: 18px;">**Mais aussi ...**</span>
 	* Les langues s'affichent directement lors de l'ouverture des paramètres
 	* Le téléchargement des fichiers de langues est ignoré dans le cas où le fichier index n'existe pas
