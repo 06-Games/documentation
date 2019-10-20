@@ -2,13 +2,13 @@
 title: Android
 description: Guide d'installation d'Angry Dash sous Android
 published: true
-date: 2019-07-21T15:01:45.016Z
+date: 2019-10-20T17:02:21.339Z
 tags: 
 ---
 
 # Via le Play Store
 ## Version public
-Angry Dash n'est actuelement pas disponible via cette méthode, revenez plus tard  :/.
+Angry Dash n'est actuelement pas disponible au public, revenez plus tard  :/.
 
 ## Version beta
 1. Rejoingnez le [groupe Google](https://groups.google.com/forum/#!forum/angry-dash_beta-test) de la beta.
@@ -20,20 +20,13 @@ Angry Dash n'est actuelement pas disponible via cette méthode, revenez plus tar
 2. Dans l'onglet "Jeux", sélectionnez "Angry Dash".
 3. Sélectionnez la version d'Angry Dash à installer puis cliquez sur télécharger.
 
-# Via Github (utilisateurs avancés)
-> Cette section n'est plus à jour, veuillez suivre la methode d'installation beta du Play Store
-{.is-warning}
-1. Assurez-vous d'avoir [autorisé les sources inconnus](https://www.frandroid.com/comment-faire/lemultimedia/231266_autoriserlessourcesinconnues) sur votre téléphone
-2. Téléchargez la [dernière version](https://github.com/06-Games/Angry-Dash/releases/latest) d'Angry Dash
-3. Ouvrez le fichier .apk que vous venez de télécharger
-4. Installez le jeu
+# Via Github (pre-builds)
+> Pour poursuivre cettte méthode d'installation, assurez-vous de disposer d'un compte autorisé
+{.is-info}
 
-# Via Gogs (pre-builds)
-> Cette section n'est plus à jour, veuillez suivre la methode d'installation beta du Play Store
-{.is-warning}
 
 1. Assurez-vous d'avoir [autorisé les sources inconnus](https://www.frandroid.com/comment-faire/lemultimedia/231266_autoriserlessourcesinconnues) sur votre téléphone
-2. [Connectez-vous](https://06games.ddns.net:8888/user/login) avec un compte développeur
-3. [Téléchargez](https://06games.ddns.net:8888/06Games/Angry_Dash/releases) le build de votre choix
+2. [Connectez-vous](https://github.com/login/) avec un compte autorisé
+3. [Téléchargez](https://github.com/06Games/Angry_Dash/releases) le build de votre choix
 4. Ouvrez le fichier .apk que vous venez de télécharger
 5. Installez le jeu
