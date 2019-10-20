@@ -2,7 +2,7 @@
 title: Windows
 description: Guide d'installation d'Angry Dash sous Windows
 published: true
-date: 2019-07-21T15:08:40.175Z
+date: 2019-10-20T17:07:59.360Z
 tags: 
 ---
 
@@ -23,5 +23,5 @@ tags:
 > Cette méthode d'installation n'est plus supportée, la dernière version disponible par ce biai est la **0.2.2**
 {.is-danger}
 
-1. Téléchargez la [dernière version](https://github.com/06-Games/Angry-Dash/releases/latest) d'Angry Dash
+1. Téléchargez la [version 0.2.2](https://github.com/06-Games/Angry-Dash/releases/tag/0.2.2) d'Angry Dash
 2. Executez le programme d'installation
