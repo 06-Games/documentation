@@ -2,18 +2,18 @@
 title: Android
 description: Guide d'installation d'Angry Dash sous Android
 published: true
-date: 2019-10-20T17:02:21.339Z
+date: 2019-10-20T17:12:53.380Z
 tags: 
 ---
 
 # Via le Play Store
-## Version public
-Angry Dash n'est actuelement pas disponible au public, revenez plus tard  :/.
+## Version publique
+Angry Dash n'est actuellement pas disponible au public, revenez plus tard  :/.
 
-## Version beta
-1. Rejoingnez le [groupe Google](https://groups.google.com/forum/#!forum/angry-dash_beta-test) de la beta.
-2. Inscrivez-vous à la [beta](https://play.google.com/apps/testing/com.fr_06Games.AngryDash).
-3. Télechargez le Jeu sur le [Play Store](https://play.google.com/store/apps/details?id=com.fr_06Games.AngryDash) avec le compte inscrit.
+## Version bêta
+1. Rejoignez le [groupe Google](https://groups.google.com/forum/#!forum/angry-dash_beta-test) de la beta.
+2. Inscrivez-vous à la [bêta](https://play.google.com/apps/testing/com.fr_06Games.AngryDash).
+3. Télechargez le jeu sur le [Play Store](https://play.google.com/store/apps/details?id=com.fr_06Games.AngryDash) avec le compte inscrit.
 
 # Via le 06Games Launcher
 1. Si ce n'est pas déja fait, télechargez le [launcher android](https://06games.ddns.net/Projects/App/06Games%20Launcher/down.php) et connectez-vous :D.
@@ -21,7 +21,7 @@ Angry Dash n'est actuelement pas disponible au public, revenez plus tard  :/.
 3. Sélectionnez la version d'Angry Dash à installer puis cliquez sur télécharger.
 
 # Via Github (pre-builds)
-> Pour poursuivre cettte méthode d'installation, assurez-vous de disposer d'un compte autorisé
+> Pour poursuivre cette méthode d'installation, assurez-vous de disposer d'un compte autorisé
 {.is-info}
 
 
