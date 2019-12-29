@@ -2,7 +2,7 @@
 title: Notes de version
 description: La liste des changements effectués à chaque version
 published: true
-date: 2019-09-14T19:20:38.484Z
+date: 2019-12-29T17:21:45.143Z
 tags: 
 ---
 
