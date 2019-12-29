@@ -2,11 +2,11 @@
 title: Sommaire
 description: Sommaire d'Angry Dash
 published: true
-date: 2019-12-29T17:20:11.695Z
+date: 2019-12-29T17:45:43.839Z
 tags: 
 ---
 
-[![Changlogs](https://img.shields.io/badge/Changlogs-%20-%20.svg?style=for-the-badge)](changlogs)
+[![Notes de version](https://img.shields.io/badge/Notes%20de%20version-%20-%20.svg?style=for-the-badge)](release-notes)
 # Installation
 * [Installation Android](install/android)
 * [Installation Windows](install/windows)
