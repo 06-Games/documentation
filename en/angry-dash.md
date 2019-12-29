@@ -2,11 +2,11 @@
 title: Summary
 description: Angry Dash Summary
 published: true
-date: 2019-12-29T17:22:34.605Z
+date: 2019-12-29T17:23:18.674Z
 tags: 
 ---
 
-[![Release Notes](https://img.shields.io/badge/Release%20Notes-%20-%20.svg?style=for-the-badge)](release-notes)
+[![Notes de version](https://img.shields.io/badge/Notes%20de%20version-%20-%20.svg?style=for-the-badge)](release-notes)
 # Installation
 * [Android installation](install/android)
 * [Windows installation](install/windows)
