@@ -2,7 +2,7 @@
 title: Sommaire
 description: Sommaire d'Angry Dash
 published: true
-date: 2019-07-22T12:31:57.794Z
+date: 2019-12-29T17:08:10.744Z
 tags: 
 ---
 
@@ -21,6 +21,9 @@ tags:
 * [Profil](angry-dash/menu/home/profile)
 
 # L'éditeur
+> Cette section est obsolète
+{.is-warning}
+
 * [Récent](angry-dash/menu/editor/recent)
 * [Explorer](angry-dash/menu/editor/explore)
 	* [Le menu Explorer](angry-dash/menu/editor/explore#le-menu-explorer)
