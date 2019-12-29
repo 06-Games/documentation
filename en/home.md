@@ -2,7 +2,7 @@
 title: Home
 description: Welcome to 06Games documentation
 published: true
-date: 2019-07-21T17:09:43.428Z
+date: 2019-12-29T17:11:43.654Z
 tags: 
 ---
 
@@ -14,4 +14,4 @@ tags:
 * [06Games Launcher](06games-launcher)
 
 # Others
-* [Compte 06Games](06games-account)
+* [06Games account](06games-account)
