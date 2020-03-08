@@ -2,7 +2,7 @@
 title: Android
 description: Guide d'installation d'Angry Dash sous Android
 published: true
-date: 2019-10-20T17:12:53.380Z
+date: 2020-03-08T10:23:30.719Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ tags:
 Angry Dash n'est actuellement pas disponible au public, revenez plus tard  :/.
 
 ## Version bêta
-1. Rejoignez le [groupe Google](https://groups.google.com/forum/#!forum/angry-dash_beta-test) de la beta.
+1. Rejoignez le [groupe Google](https://groups.google.com/d/forum/06games_beta-test) de la beta.
 2. Inscrivez-vous à la [bêta](https://play.google.com/apps/testing/com.fr_06Games.AngryDash).
 3. Télechargez le jeu sur le [Play Store](https://play.google.com/store/apps/details?id=com.fr_06Games.AngryDash) avec le compte inscrit.
 
